@@ -1,2 +1,2 @@
 # Hello-World
-# Welcome to the Software Assurance Course
+# Welcome to the Software Assurance Course at UNO
